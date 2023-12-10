@@ -5,14 +5,13 @@ header {
 }
 
 .content {
-    text-align: center;
-    flex-grow: 5;
     display: flex;
-    flex-direction: column;
+    align-items: center;
     justify-content: center;
     font-size: x-large;
 }
 
-h2 {
-    margin: 20px 0;
-}
+img {
+    width: 30%;
+    margin: 5%;
+}  
